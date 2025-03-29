@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **eCommerce website**
 
-- 🌱 I’m currently learning **Spring boot , typeScript**
+- 🌱 I’m currently learning **Spring boot **
 
 - 🤝 I’m looking for help with **Spring Boot**
 
